@@ -10,4 +10,4 @@ Feature: Product - Store
     Then debería visualizar mi usuario logeado en la pantalla: '<nombre>' '<apellido>'
     Examples:
     |nombre|apellido|email|pwd|fechaNac|
-    |JuanTres2  |PerezTres2   |usuario5@usuario.com|TestLab123|27/08/1995|
+    |JuanTestAuto  |PerezTestAuto   |usuario345@usuario.com|TestLab123|27/08/1995|
